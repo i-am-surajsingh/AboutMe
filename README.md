@@ -67,3 +67,6 @@ Here are a few highlights of my work:
 
 ⭐️ Thank you for visiting my profile!
 
+<img src="https://raw.githubusercontent.com/your-username/your-username/output/snake.svg" alt="Snake animation" />
+
+
